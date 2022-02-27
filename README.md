@@ -1,6 +1,6 @@
 # 1password otp
 
-This is a simple tool that shows all One-Time Password (OTP) from 1Password Interchange Format (.1pif).
+This is a simple tool that generates all One-Time Password (OTP) from 1Password Interchange Format (.1pif).
 
 # Usage
 
